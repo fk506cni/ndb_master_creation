@@ -79,6 +79,12 @@ Reading whole masters requres you large memory.
 It may be good to have range info in master to compress master size.
 One of example of usage is writed.
 
+## Step.7
+
+Custom dictionary with range info.
+
+Ver Julia.
+
 ## output memo
 
 
