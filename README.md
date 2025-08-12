@@ -98,7 +98,7 @@ git clone https://github.com/fk506cni/ndb_master_creation
 
 
 ## Process environment
-Ubuntu 22.04LTS(WSL/Windows 10 home.)
+Ubuntu 22.04LTS(WSL2/Windows 10 home.)
 
 
 ## Caution.
